@@ -1,5 +1,11 @@
 <h1> Apollo GraphQL with PostgreSQL</h1>
 
+<hr />
+
+<strong>🦉Learn more about this project on [Tech-Multiverse.com](https://tech-multiverse.com/uncategorized/using-docker-compose-to-run-apollo-graphql-with-postgresql/)!</strong>
+
+<hr />
+
 This repo provides a *docker-compose.yaml* that builds an Apollo Server and hosts GraphQL connected to a PostgreSQL database.
 
 <strong>Everything is set up to automatically build and connect GraphQL to your database!</strong>
